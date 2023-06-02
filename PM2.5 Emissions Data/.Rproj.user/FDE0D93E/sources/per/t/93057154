@@ -1,0 +1,27 @@
+{
+    "id": "93057154",
+    "path": "~/Nada /my_work/data_science_specialization/reproducible_research/proj2/PM2.5 Emissions Data/script.R",
+    "project_path": "script.R",
+    "type": "r_source",
+    "hash": "2090610444",
+    "contents": "",
+    "dirty": false,
+    "created": 1685737786486.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "179,1",
+        "scrollLine": "175"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1685738519,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1685738519417,
+    "read_only": false,
+    "read_only_alternatives": []
+}
